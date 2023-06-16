@@ -77,4 +77,4 @@ if mode:
     elif r == "코딩":
         st.write(format("저보다 파이썬 잘해요?"))
     elif r == "지각":
-        st.write(format("9시랑 9시 1분은 다른 거에요.")
+        st.write(format("9시랑 9시 1분은 다른 거에요."))
